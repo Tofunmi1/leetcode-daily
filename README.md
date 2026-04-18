@@ -13,5 +13,5 @@ This repository currently uses **Python**.
 ## Run
 
 ```bash
-python3 /home/runner/work/leetcode-daily/leetcode-daily/python/2026-04-18_two_sum.py
+python3 python/2026-04-18_two_sum.py
 ```
